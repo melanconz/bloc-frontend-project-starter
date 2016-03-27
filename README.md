@@ -1,1 +1,1 @@
-# bloc-frontend-project-starter
+Zachary's Bloc Frontent Project Starter
